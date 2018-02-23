@@ -1,0 +1,15 @@
+{
+  "name": "apify-crawler-wp-plugin",
+  "version": "1.0.0",
+  "description": "Development environment for WordPress Apify Crawle Plugin.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tajid Yakub <tajid.yakub@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "laravel-mix": "^2.0.0"
+  }
+}
